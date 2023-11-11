@@ -1,0 +1,17 @@
+title: <font face="等线">李 欧</font>
+title2: 李欧
+position: <font face="等线">杭州师范大学阿里巴巴商学院</font>
+position2: 杭州师范大学阿里巴巴商学院
+affiliation: <font face="等线">浙江大学神经管理学实验室</font>
+email: lo@hznu.edu.cn
+keywords: minimal academic
+google_scholar: https://scholar.google.com/
+github_link: https://www.researchgate.net/profile/Ou-Li-8
+linkedin: https://weibo.com/
+avatar: ./assets/img/b.jpg
+google_analytics: UA-111540567-4
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+canonical: https://minimal-light.yyliu.net/
+remote_theme: yaoyao-liu/minimal-light
